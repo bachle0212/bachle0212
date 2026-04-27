@@ -33,11 +33,10 @@
 
 <br>
 
-### 🔥 Featured Automation Systems
+### 🔥 Open Source & Architecture Showcase
 
-*   **🎬 AI Video Generator Pipeline:** A zero-cost system generating 10-minute Documentary videos using LLaMA, Edge-TTS, Pollinations API, and FFmpeg hard-subbing.
-*   **🕷️ Proxy Farm Engine:** A live async API rotating 30,000+ HTTP/S proxies daily with silent background scanning to bypass rate limits (HTTP 429).
-*   **📱 VMS for TikTok/Douyin Affiliate:** A Next.js + FastAPI dashboard to scrape trending videos, translate subs locally via Groq Whisper, and manage automated rendering via Kanban flow.
+*   **[Nexus SaaS Dashboard](https://github.com/bachle0212/nexus-saas-dashboard):** A production-grade, highly scalable B2B SaaS Dashboard boilerplate built with Next.js 14, Tailwind v4, and Zustand. Designed with Atomic Design principles.
+*   **[Pulse Headless CMS](https://github.com/bachle0212/pulse-headless-cms):** High-performance, developer-first Headless CMS backend API built with Python, FastAPI, asyncpg, and Docker. Uses Domain-Driven Design (DDD).
 
 ---
 
