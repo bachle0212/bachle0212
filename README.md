@@ -35,7 +35,7 @@
 
 ### 🔥 Open Source & Architecture Showcase
 
-*   **[Nexus SaaS Dashboard](https://github.com/bachle0212/nexus-saas-dashboard):** A production-grade, highly scalable B2B SaaS Dashboard boilerplate built with Next.js 14, Tailwind v4, and Zustand. Designed with Atomic Design principles.
+*   **[Nexus SaaS Dashboard](https://github.com/bachle0212/nexus-saas):** A production-grade, highly scalable B2B SaaS Dashboard boilerplate built with Next.js 14, Tailwind v4, and Zustand. Designed with Atomic Design principles.
 *   **[Pulse Headless CMS](https://github.com/bachle0212/pulse-headless-cms):** High-performance, developer-first Headless CMS backend API built with Python, FastAPI, asyncpg, and Docker. Uses Domain-Driven Design (DDD).
 
 ---
